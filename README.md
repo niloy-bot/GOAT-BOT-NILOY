@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=🤖+Goat+Bot+V2+—+by+𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝+𝐀𝐤𝐚𝐬𝐡+🐐" alt="Goat Bot V2"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=🤖+Goat+Bot+Alvi+—+by+𝐈𝐭'𝐬+𝐌𝐞+𝐀𝐥𝐯𝐢+🐐" alt="Goat Bot Alvi"/>
   </p>
 
   <p align="center" style="margin-top:15px; margin-bottom: 10px;">
@@ -10,16 +10,16 @@
     <img src="https://img.shields.io/badge/License-Custom-red?style=for-the-badge&logo=opensourceinitiative&labelColor=1F2428" alt="License"/>
     <img src="https://img.shields.io/badge/Language-Node.js-informational?style=for-the-badge&logo=nodedotjs&labelColor=1F2428" alt="Language"/>
   </p>
-  <img src="https://i.imgur.com/yQTQfNI.jpeg" width="600" style="border-radius:50%;margin-top:10px;margin-bottom:10px;" alt="Mohammad Akash"/>
+  <img src="https://imgur.com/a/7OlImGn" width="600" style="border-radius:50%;margin-top:10px;margin-bottom:10px;" alt="𝙸𝚝'𝚜 𝙼𝚎 𝙰𝚕𝚟𝚒"/>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=580&lines=🚀+Goat+Bot+V2+Reloaded;⚡+Built+by+Mohammad+Akash;💫+Fast%2C+Smart+%26+Reliable;💥+Messenger+Bot+Evolution" alt="sub"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=580&lines=🚀+Goat+Bot+Alvi+Reloaded;⚡+Built+by+Alvi+Boss;💫+Fast%2C+Smart+%26+Reliable;💥+Messenger+Bot+Evolution" alt="sub"/>
   </p>
 
   <hr style="width:90%;opacity:0.2"/>
 
   <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00FFD1&center=true&vCenter=true&width:760&lines=🌟+About;Goat+Bot+V2+—+A+next-level+Facebook+Messenger+bot,+redefined+by+Mohammad+Akash." alt="about-typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00FFD1&center=true&vCenter=true&width:760&lines=🌟+About;Goat+Bot+Alvi+—+A+next-level+Facebook+Messenger+bot,+redefined+by+Alvi+Boss." alt="about-typing" />
   </h2>
 
   <h3>
@@ -42,16 +42,16 @@
 
 
   <p align="center" style="margin-top:20px;">
-    <a href="https://facebook.com/arakashiam" target="_blank">
+    <a href="https://facebook.com/100082607436864" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
-    <a href="https://t.me/arakashiam" target="_blank" style="margin-left:8px;">
+    <a href="https://t.me/ALVI.BROOH" target="_blank" style="margin-left:8px;">
       <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="https://github.com/mdakashproject" target="_blank" style="margin-left:8px;">
+    <a href="https://github.com/alvi-boss" target="_blank" style="margin-left:8px;">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://youtube.com/@its_akash_me?si=wtY71zp_XF-40bJt" target="_blank" style="margin-left:8px;">
+    <a href="https://youtube.com/@SAUniqueBro" target="_blank" style="margin-left:8px;">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
   </p>
@@ -69,7 +69,7 @@
   <hr style="width:80%;opacity:0.12"/>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFD1&center=true&vCenter=true&width:620&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Mohammad+Akash;Follow+on+FB+and+TG+for+updates!" alt="cta" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFD1&center=true&vCenter=true&width:620&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Alvi+Boss;Follow+on+FB+and+TG+for+updates!" alt="cta" />
   </p>
   
   <hr style="width:80%;opacity:0.12"/>
@@ -79,7 +79,7 @@
   </h3>
 
   <p align="center" style="margin-top:10px;">
-    <a href="https://m.me/j/AbaLu1kVZB8R-vLR/" target="_blank">
+    <a href="https://m.me/100082607436864" target="_blank">
       <img src="https://img.shields.io/badge/Join_Messenger_Group-0078FF?style=for-the-badge&logo=facebook-messenger&logoColor=white" alt="Messenger Group Link"/>
     </a>
   </p>
@@ -93,10 +93,10 @@
   </h3>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration:3000&pause=200&color=FFFFFF&center=true&vCenter=true&width:760&lines=👤+Name:+Mohammad+Akash;🚹+Gender:+Male;❤️+Relation:+Single;🎂+Age:+18+Plus;🕌+Religion:+Islam;🎓+Education:+Inter+2nd+Year;🏡+Address:+Dhaka-Gazipur" alt="owner-details-lines"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration:3000&pause=200&color=FFFFFF&center=true&vCenter=true&width:760&lines=👤+Name:+Alvi+Boss;🚹+Gender:+Male;❤️+Relation:+Single;🎂+Age:+23+Plus;🕌+Religion:+Islam;🎓+Education:+Inter+2nd+Year;🏡+Address:+Tangail" alt="owner-details-lines"/>
   </p>
   <p align="center" style="margin-top:10px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration:2200&pause=200&color=FFFFFF&center=true&vCenter=true&width:760&lines=⚡+Ready+to+use+%7C+Premium+style+available+%7C+Contact:+@arakashiam" alt="footer-typing"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration:2200&pause=200&color=FFFFFF&center=true&vCenter=true&width:760&lines=⚡+Ready+to+use+%7C+Premium+style+available+%7C+Contact:+966505748978" alt="footer-typing"/>
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" style="margin-top:14px;"/>
